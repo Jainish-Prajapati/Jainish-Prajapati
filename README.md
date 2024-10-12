@@ -20,8 +20,8 @@
 
 Got a cool project idea? Or just geek out about programming? Hit me up!
 
-- [LinkedIn](https://www.linkedin.com/in/jainish-prajapati/)
 - [X](https://x.com/Jainish_P/)
+- [LinkedIn](https://www.linkedin.com/in/jainish-prajapati/) - A Corporate Shit
 
 
 When I'm not coding, you can find me brainstorming ideas with fellow tech enthusiasts or diving into the latest tech blogs. Always open to interesting projects and collaborations!
