@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,windows,arch,ubuntu,linux,bash,postman,obsidian" />
+  <img src="https://skillicons.dev/icons?i=github,git,windows,linux,bash,postman,obsidian" />
 </p>
 
 ## 📊 Stats
