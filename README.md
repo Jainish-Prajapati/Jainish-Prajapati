@@ -1,59 +1,35 @@
-# 👋 Hii, I'm Jainish Prajapati!
-<img src="./fastfetch.png" align="center"/>
+# Hello, I'm Jainish Prajapati!
 
-## About Me
-- 🐧 I use Arch BTW
-- 🌐 Living in the matrix made of 0s and 1s
+## About Me  
 
-## ⚙️ Tech stack
+Hi there! I'm a **Computer Engineering student** with a passion for technology, innovation, and problem-solving. I enjoy working on exciting projects in machine learning and backend development.  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,php" />
-</p>
+### Key Highlights  
+- Skilled in **Python**, **Java**, **C/C++**, **PHP** and **backend frameworks**.  
+- Enthusiastic about exploring **Machine Learning**.  
+- Always learning and staying updated on cutting-edge technologies.  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,spring,fastapi,sklearn" />
-</p>
+### Skills  
+#### **Technical Skills**  
+- **Programming Languages**: Python, Java, C/C++, PHP  
+- **Machine Learning**: Familiar with various techniques and eager to explore more  
+- **Backend Development**: Skilled in backend frameworks and development  
+- **Tools/OS**: Comfortable with using Linux based distros like (Ubuntu, Fedora, Arch)  
+- **Problem Solving**: Strong analytical skills to tackle complex problems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+#### **Soft Skills**  
+- **Self-Motivated**: Continuously learning and upskilling in the tech field  
+- **Collaboration**: Open to working with others on innovative projects and open-source contributions  
+- **Adaptability**: Willing to explore new ideas and technologies  
+- **Growth-Oriented**: Focused on both personal and professional growth  
+- **Critical Thinking**: Ability to reflect on and learn from experiences  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,idea,vscodium,pycharm" />
-</p>
+### 🌱 What Drives Me  
+I strive for meaningful growth, both personally and professionally. Whether it's contributing and collaborating on innovative projects, or exploring new ideas, I'm always eager to learn and connect with like-minded individuals.  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,windows,linux,bash,postman,obsidian" />
-</p>
+### 🌐 Outside of Code  
+Outside of programming, I enjoy exploring new technologies, engaging in meaningful discussions about innovation, and continuously learning to improve myself.  
 
-## 📊 Stats
-<p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/?username=Jainish-Prajapati&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Jainish-Prajapati's Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jainish-Prajapati&theme=algolia&hide_border=true" alt="Jainish-Prajapati's Top Languages"  />
-</p>
-<p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=Jainish-Prajapati&layout=donut&theme=algolia&hide_border=true" alt="Jainish-Prajapati's Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jainish-prajapati)  
 
-## 📈 Contributions
-<p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainish-Prajapati&theme=github-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-</p>
-
-## 💬 Let's Connect!
-
-Got a cool project idea? Or just geek out about programming? Hit me up!
-
-- [LinkedIn](https://www.linkedin.com/in/jainish-prajapati)
-
-
-<br/>
-
-##
-
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Jainish-Prajapati&label=Profile%20Views&color=0&icon=8&pretty=false" alt="Profile Views" />
-</p>
+Feel free to connect with me—let's build something amazing together! 🚀  
